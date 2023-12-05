@@ -23,3 +23,8 @@ SQL 및 Nexacro 기술의 숙련도 향상을 위해 ChatGPT를 활용하여 테
 3. 동작:
 사용자가 부서 목록에서 특정 부서를 선택하면, 선택된 부서의 평균 급여가 화면에 표시됩니다.
 ```
+
+![1](https://github.com/fxzz/NexacroSQLStudy/assets/3148006/4e5917e7-4444-408e-b91a-89134184aedb)
+
+
+![2](https://github.com/fxzz/NexacroSQLStudy/assets/3148006/41691c59-06b5-4e5d-bd81-c562a602bd38)
