@@ -1,5 +1,5 @@
 # NexacroSQLStudy
-### 자바, SQL, Nexacro
+### Java, SQL, Nexacro
 
 
 <br>
