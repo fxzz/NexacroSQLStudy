@@ -77,8 +77,10 @@ SQL 및 Nexacro 기술의 숙련도 향상을 위해 ChatGPT를 활용하여 테
 
 ![2](https://github.com/fxzz/NexacroSQLStudy/assets/3148006/41691c59-06b5-4e5d-bd81-c562a602bd38)
 
-<br>
-<br>
 
+</hr>
+
+<br>
+<br>
 
 
