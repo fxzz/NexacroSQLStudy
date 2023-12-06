@@ -48,4 +48,8 @@ SQL 및 Nexacro 기술의 숙련도 향상을 위해 ChatGPT를 활용하여 테
 최근 부서 근무 이력은 입사일로부터 현재까지의 기간 동안의 부서 이력 중에서 가장 최근의 것을 나타냅니다
 ```
 
+![요구사항](https://github.com/fxzz/NexacroSQLStudy/assets/3148006/64b32d5a-81e5-456e-9a5f-a274143fa128)
+
+
+![쿼리](https://github.com/fxzz/NexacroSQLStudy/assets/3148006/5dbd8e0d-3359-4cdb-9df7-23d4dad4e79e)
 
