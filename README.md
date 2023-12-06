@@ -53,3 +53,19 @@ SQL 및 Nexacro 기술의 숙련도 향상을 위해 ChatGPT를 활용하여 테
 
 ![쿼리](https://github.com/fxzz/NexacroSQLStudy/assets/3148006/5dbd8e0d-3359-4cdb-9df7-23d4dad4e79e)
 
+
+
+### 2023.12.06 ~ 2023.12.06
+### 03. 요구사항: ""
+
+```
+1. 기능:
+
+
+2. 화면 요소:
+
+
+3. 동작:
+
+```
+
