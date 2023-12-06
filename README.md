@@ -9,6 +9,23 @@ SQL 및 Nexacro 기술의 숙련도 향상을 위해 ChatGPT를 활용하여 테
 
 <br>
 
+
+### 2023.12.06 ~ 2023.12.06
+### 04. 요구사항: ""
+
+```
+1. 기능:
+
+
+2. 화면 요소:
+
+
+3. 동작:
+
+
+<br>
+<br>
+
 ### 2023.12.06 ~ 2023.12.06
 ### 03. 요구사항: "특정 급여 범위 내의 직원 목록 조회"
 
@@ -27,7 +44,10 @@ SQL 및 Nexacro 기술의 숙련도 향상을 위해 ChatGPT를 활용하여 테
 조회된 목록은 급여가 낮은 순서부터 높은 순서로 정렬되어 표시돼야 합니다.
 ```
 
-제작중
+![요구사항](https://github.com/fxzz/NexacroSQLStudy/assets/3148006/bf342bf0-50e6-4968-a8f1-7054efad3f84)
+
+
+![쿼리](https://github.com/fxzz/NexacroSQLStudy/assets/3148006/7eece70b-b626-48ec-828e-5d1ea30d6f6f)
 
 
 <br>
